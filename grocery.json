@@ -1,0 +1,88 @@
+{"grocery":[
+    {
+        "SNo":"1",
+        "Item":"Rice",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Grocery",
+        "Notes":"Basumathi Rice"
+
+    },
+    {
+        "SNo":"2",
+        "Item":"Atta Podi",
+        "Quantity":"3",
+        "Unit":"Kg",
+        "Department":"Grocery",
+        "Notes":"Aashirvaad"
+    },
+    
+    {
+        "SNo":"3",
+        "Item":"Mango",
+        "Quantity":"5",
+        "Unit":"No",
+        "Department":"Fruits",
+        "Notes":"Ripe ones"
+    },
+    
+    {
+        "SNo":"4",
+        "Item":"Sunflower Oil",
+        "Quantity":"1",
+        "Unit":"Litre",
+        "Department":"Grocery",
+        "Notes":"Goldwinner"
+    },
+   
+    {
+        "SNo":"5",
+        "Item":"Milk",
+        "Quantity":"2",
+        "Unit":"Litre",
+        "Department":"Dairy Products",
+        "Notes":"Milma"
+    },
+    {      
+        "SNo":"6",
+        "Item":"Beetroot",
+        "Quantity":"4",
+        "Unit":"No",
+        "Department":"Vegetables",
+        "Notes":"Fresh ones"
+    },
+    {
+        "SNo":"7",
+        "Item":"Eggs",
+        "Quantity":"8",
+        "Unit":"No",
+        "Department":"Egg & Meat Products",
+        "Notes":"Chicken eggs"
+    },
+    {
+        "SNo":"8",
+        "Item":"Bread",
+        "Quantity":"2",
+        "Unit":"No",
+        "Department":"Grocery",
+        "Notes":"Modern Sweet Bread"
+    },
+    {
+        "SNo":"9",
+        "Item":"Sugar",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Grocery",
+        "Notes":"Packed"
+    },
+    
+    {
+        "SNo":"10",
+        "Item":"Puttu Podi",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Grocery",
+        "Notes":"Nirapara"
+    }
+]
+}
