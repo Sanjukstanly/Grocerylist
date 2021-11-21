@@ -15,21 +15,19 @@ thead {
   color: rgb(238, 168, 168);
 }
 body {
-  background-image: url(./images/pexels-pixabay-264636.jpg);
+  background-image: url(./images/grocery2.jpg);
   background-size: cover;
 }
 
 tbody {
   background-color: rgb(121, 199, 173);
 }
-
 .bt {
   margin-top: 1%;
   margin-left: 47.5%;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-
 .gtable {
   margin-top: 2.2%;
 }
